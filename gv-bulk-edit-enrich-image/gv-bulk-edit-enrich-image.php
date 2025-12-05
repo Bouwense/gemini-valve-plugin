@@ -2,7 +2,7 @@
 /**
  * Plugin Name: GV – Bulk Edit: Enrich Image
  * Description: Finds/attaches product images for WooCommerce products that have no featured image. Menu: Bulk Edit → Enrich Image.
- * Version: 1.0.2
+ * Version: 1.0.21
  * Author: Gemini Valve
  */
 
