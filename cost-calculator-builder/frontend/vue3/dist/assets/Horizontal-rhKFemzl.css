@@ -1,0 +1,1 @@
+.ccb-horizontal{position:relative;display:grid;gap:30px;max-width:var(--ccb-horizontal-max-width);margin:auto;padding:10px}@media (max-width: 768px){.ccb-horizontal .ccb-fields-list{grid-template-columns:1fr!important}}

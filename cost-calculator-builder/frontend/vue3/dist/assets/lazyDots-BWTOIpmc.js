@@ -1,0 +1,2 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{l as u,o as e,p as l}from"./pinia-CqDt-rav.js";const s={},t={class:"ccb-loader-dots"};function d(r,n){return e(),u("div",t,n[0]||(n[0]=[l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1)]))}const a=o(s,[["render",d]]);export{a as default};
+//# sourceMappingURL=lazyDots-BWTOIpmc.js.map

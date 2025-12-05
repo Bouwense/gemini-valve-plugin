@@ -1,0 +1,1 @@
+.ccb-horizontal-layout{display:grid;grid-template-columns:1fr;counter-reset:ccb-section}@media (max-width: 1024px){.ccb-horizontal-layout{grid-template-columns:1fr}}.ccb-horizontal-layout.summary-last-page{grid-template-columns:1fr}.ccb-horizontal-layout.enough-pages{background-color:var(--ccb-container-color)}

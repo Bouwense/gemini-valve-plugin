@@ -1,0 +1,2 @@
+import{d as o,t as l,c,l as r,o as i,u as d,z as u}from"./pinia-CqDt-rav.js";const m=["innerHTML"],_=o({__name:"Html",props:{field:{}},setup(s){const n=s,{field:t}=l(n),a=c(()=>{var e;return((e=t.value)==null?void 0:e.additionalStyles)||""});return(e,p)=>(i(),r("div",{class:u(["ccb-field",{[a.value]:!0}]),innerHTML:d(t).htmlContent},null,10,m))}});export{_ as default};
+//# sourceMappingURL=index-BOjjGTrU.js.map

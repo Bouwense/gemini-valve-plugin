@@ -1,0 +1,2 @@
+import{g as o}from"./pinia-CqDt-rav.js";const a=e=>e.replace(/_([a-z])/g,(t,s)=>s.toUpperCase());function r(e){return Array.isArray(e)?e.map(r):e!==null&&typeof e=="object"?Object.keys(e).reduce((t,s)=>{const n=a(s);return t[n]=r(e[s]),t},{}):e}const l=o("translations_store",{state:()=>({translations:{}}),actions:{initTranslations(e){this.translations=r(e)}},getters:{getTranslations:e=>e.translations}});export{r as c,l as u};
+//# sourceMappingURL=translationsStore-B4g6iBqy.js.map

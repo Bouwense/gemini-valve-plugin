@@ -1,0 +1,2 @@
+import{_ as u}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{l as d,o,p as l}from"./pinia-CqDt-rav.js";const e={},i={class:"ccb-loader-dots"};function s(t,n){return o(),d("div",i,n[0]||(n[0]=[l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1)]))}const v=u(e,[["render",s]]);export{v as default};
+//# sourceMappingURL=dots-BUW1gomp.js.map

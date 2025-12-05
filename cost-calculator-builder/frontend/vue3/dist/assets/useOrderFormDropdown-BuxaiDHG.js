@@ -1,0 +1,2 @@
+import{t as c,k as u,B as v}from"./pinia-CqDt-rav.js";function r(o,l,t){const{field:s}=c(o),e=u(!1),n=i=>{t.value&&"contains"in t.value&&!t.value.contains(i.target)&&(e.value=!1,l("toggle",!1))},a=()=>{e.value=!e.value,l("toggle",e.value),e.value?document.addEventListener("click",n):document.removeEventListener("click",n)};return v(()=>{document.removeEventListener("click",n)}),{field:s,isBodyVisible:e,toggleBody:a}}export{r as u};
+//# sourceMappingURL=useOrderFormDropdown-BuxaiDHG.js.map

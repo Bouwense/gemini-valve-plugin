@@ -1,0 +1,2 @@
+import{a as o,B as r,l,f as n,n as t,C as d,u as s,H as i}from"./pinia-DEH50WAs.js";const _={class:"ccb-order-field__title"},f={class:"ccb-field__input-wrapper"},p=["innerHTML"],h=o({__name:"OrderFormattedText",props:{field:{}},setup(c){const a=c,{field:e}=r(a);return(m,u)=>(n(),l("div",{class:i(["ccb-order-field ccb-order-formatted-text",{[`ccb-col-${s(e).fieldWidth}`]:!0}])},[t("div",_,d(s(e).label),1),t("div",f,[t("div",{class:"ccb-formatted-text",innerHTML:s(e).value},null,8,p)])],2))}});export{h as default};
+//# sourceMappingURL=OrderFormattedText-C_iLZNW-.js.map

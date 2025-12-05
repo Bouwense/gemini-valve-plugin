@@ -1,0 +1,1 @@
+.ccb-two-columns-layout{display:grid;grid-template-columns:2fr 1fr;max-width:var(--ccb-two-columns-max-width);counter-reset:ccb-section}@media (max-width: 1024px){.ccb-two-columns-layout{grid-template-columns:1fr}}.ccb-two-columns-layout.summary-last-page{grid-template-columns:1fr}.ccb-two-columns-layout.enough-pages{background-color:var(--ccb-container-color)}

@@ -1,0 +1,1 @@
+.ccb-summary-group{display:flex;flex-direction:column;gap:var(--ccb-summary-spacing)}@media only screen and (max-width: 480px){.ccb-summary-group{gap:var(--ccb-mobile-summary-spacing)}}

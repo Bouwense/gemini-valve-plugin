@@ -1,0 +1,2 @@
+import{a as o,B as l,c,l as r,f as i,u as d,H as u}from"./pinia-DEH50WAs.js";const f=["innerHTML"],_=o({__name:"Html",props:{field:{}},setup(t){const n=t,{field:s}=l(n),a=c(()=>{var e;return((e=s.value)==null?void 0:e.additionalStyles)||""});return(e,m)=>(i(),r("div",{class:u(["ccb-field",{[a.value]:!0}]),innerHTML:d(s).htmlContent},null,10,f))}});export{_ as default};
+//# sourceMappingURL=index-CvTew76K.js.map

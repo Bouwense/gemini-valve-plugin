@@ -1,0 +1,10 @@
+export { default as OrdersDetails } from "./OrdersDetails.vue";
+export { default as OrdersTable } from "./OrdersTable.vue";
+export { default as OrdersFormDetails } from "./OrdersFormDetails.vue";
+export { default as OrdersCalculatorFields } from "./OrdersCalculatorFields.vue";
+export { default as OrdersAttachments } from "./OrdersAttachments.vue";
+export { default as OrdersEmails } from "./OrdersEmails.vue";
+export { default as OrdersPagination } from "./OrdersPagination.vue";
+export { default as OrdersSettings } from "./OrdersSettings.vue";
+export { default as OrdersNotes } from "./OrdersNotes.vue";
+export { default as OrdersBulkActions } from "./OrdersBulkActions.vue";

@@ -1,0 +1,2 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{l as c,o as e,p as t,A as r}from"./pinia-CqDt-rav.js";const a={},_={class:"ccb-hint"},i={class:"ccb-hint__content"};function l(n,s){return e(),c("span",_,[s[0]||(s[0]=t("i",{class:"ccb-icon-Path-3367"},null,-1)),t("span",i,[r(n.$slots,"content")])])}const f=o(a,[["render",l]]);export{f as H};
+//# sourceMappingURL=Hint-ugxzZzmF.js.map

@@ -1,0 +1,2 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{l as c,f as a,n as s,I as t}from"./pinia-DEH50WAs.js";const n={},r={class:"ccb-block"},d={class:"ccb-section ccb-section-subtotal"},i={class:"ccb-subtotal-wrapper"};function l(e,_){return a(),c("div",r,[s("div",d,[s("div",i,[t(e.$slots,"default",{},void 0,!0)])]),t(e.$slots,"notifications",{},void 0,!0)])}const p=o(n,[["render",l],["__scopeId","data-v-3f9df2d1"]]);export{p as default};
+//# sourceMappingURL=SubTotalWrapper-CnleoeqE.js.map

@@ -1,0 +1,1 @@
+.ccb-vertical-layout{display:grid;grid-template-columns:1fr 1fr;counter-reset:ccb-section}@media (max-width: 1024px){.ccb-vertical-layout{grid-template-columns:1fr}}.ccb-vertical-layout.summary-last-page{grid-template-columns:1fr}.ccb-vertical-layout.enough-pages{background-color:var(--ccb-container-color)}

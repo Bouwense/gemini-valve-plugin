@@ -1,0 +1,2 @@
+const e={hour:{value:"hour",label:"Hourly"},week:{value:"week",label:"Weekly"},month:{value:"month",label:"Monthly"},year:{value:"year",label:"Yearly"}},o={all:[e.hour,e.week,e.month,e.year],today:[e.hour],yesterday:[e.hour],last_7_days:[e.hour,e.week],last_30_days:[e.hour,e.week,e.month],last_90_days:[e.hour,e.week,e.month],last_year:[e.hour,e.week,e.month,e.year]},r=l=>o[l]||[],t=l=>{var a;return l.length>0?(a=l[0])==null?void 0:a.value:"hour"};export{t as a,r as g};
+//# sourceMappingURL=periods-ayGdDR-m.js.map

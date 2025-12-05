@@ -1,0 +1,1 @@
+{"version":3,"file":"index-DcHvvZWB.js","sources":["../../src/admin/pages/CalculatorList/CalculatorList.vue"],"sourcesContent":["<template>\n  <div>Calculator List</div>\n</template>\n\n<script setup lang=\"ts\"></script>\n"],"names":["_sfc_render","_ctx","_cache"],"mappings":"iHACE,SAAAA,EAAAC,EAAAC,EAAA"}

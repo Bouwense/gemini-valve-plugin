@@ -1,0 +1,1 @@
+.ccb-header-title{font-size:var(--ccb-header-size);font-weight:var(--ccb-header-weight);color:var(--ccb-text-color);text-align:left}.ccb-header-title.ccb-calculator-name{display:var(--ccb-header-display)}@media only screen and (max-width: 480px){.ccb-header-title{font-size:var(--ccb-mobile-header-size);font-weight:var(--ccb-mobile-header-weight)}}

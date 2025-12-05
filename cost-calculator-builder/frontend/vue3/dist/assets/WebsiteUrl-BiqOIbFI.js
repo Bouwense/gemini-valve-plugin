@@ -1,0 +1,2 @@
+import{u as i}from"./useValidatedFormField-DWKWhZv4.js";import{a as d,l as u,f as c,n as m,u as e}from"./pinia-DEH50WAs.js";const f={class:"ccb-field__input-wrapper"},_=["placeholder","value"],B=d({__name:"WebsiteUrl",props:{field:{}},emits:["update"],setup(a,{emit:l}){const n=l,p=a,{field:t,onInput:o}=i(p,n);return(h,s)=>(c(),u("div",f,[m("input",{type:"text",placeholder:e(t).placeholder,onInput:s[0]||(s[0]=(...r)=>e(o)&&e(o)(...r)),value:e(t).displayValue},null,40,_)]))}});export{B as default};
+//# sourceMappingURL=WebsiteUrl-BiqOIbFI.js.map

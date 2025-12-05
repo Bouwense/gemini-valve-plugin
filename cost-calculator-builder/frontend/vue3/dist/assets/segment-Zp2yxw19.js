@@ -1,0 +1,2 @@
+import{_ as u}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{l as e,f as d,n as l}from"./pinia-DEH50WAs.js";const i={},s={class:"ccb-loader-segment"};function t(o,n){return d(),e("div",s,n[0]||(n[0]=[l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1),l("div",null,null,-1)]))}const v=u(i,[["render",t]]);export{v as default};
+//# sourceMappingURL=segment-Zp2yxw19.js.map

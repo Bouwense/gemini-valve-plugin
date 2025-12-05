@@ -1,0 +1,2 @@
+import{d as r,t as a,l as d,o as l,p as t,s as i,u as s,z as n}from"./pinia-CqDt-rav.js";const _={class:"ccb-order-field__title"},f={class:"ccb-field__input-wrapper"},p=["innerHTML"],h=r({__name:"OrderFormattedText",props:{field:{}},setup(c){const o=c,{field:e}=a(o);return(m,u)=>(l(),d("div",{class:n(["ccb-order-field ccb-order-formatted-text",{[`ccb-col-${s(e).fieldWidth}`]:!0}])},[t("div",_,i(s(e).label),1),t("div",f,[t("div",{class:"ccb-formatted-text",innerHTML:s(e).value},null,8,p)])],2))}});export{h as default};
+//# sourceMappingURL=OrderFormattedText-BAO0kgxP.js.map
